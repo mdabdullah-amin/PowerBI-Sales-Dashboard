@@ -93,7 +93,7 @@ Analysis of discount strategies and their impact on profit, including discount b
 
 Aspiring data analyst passionate about turning data into actionable insights using Power BI, Excel, and SQL.
 
-**LinkedIn:** [linkedin.com/in/mdabdullah-al-amin](https://www.linkedin.com/in/mdabdullah-al-amin)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mdabdullah-amin)
 ---
 
 ⭐ *If you found this project helpful or interesting, please consider giving it a star!*
