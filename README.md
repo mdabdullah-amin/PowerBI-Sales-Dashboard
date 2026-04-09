@@ -1,23 +1,23 @@
-# 📊 Power BI Sales Dashboard — Retail Analytics
+# Power BI Sales Dashboard — Retail Analytics
 
 An interactive 5-page Power BI dashboard analyzing retail sales performance across multiple regions, stores, and product categories in the United States from 2016 to 2018. Built with DAX measures, dynamic slicers, and multi-page navigation to deliver actionable business insights.
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This dashboard was developed as part of a university data analytics project to explore how retail businesses can use Power BI to transform raw transactional data into meaningful insights. The report covers sales performance, geographic trends, product profitability, store-level performance, and the impact of discounts on overall profit margins.
 
-**Key Metrics at a Glance:**
-- 💰 **Total Sales:** $898.36K
-- 📈 **Total Profit:** $191.12K
-- 📦 **Total Quantity Sold:** 274K units
-- 🏷️ **Average Discount:** 21%
-- 🌎 **Top Region:** South ($308.60K)
+Key Metrics at a Glance:
+1.Total Sales: $898.36K
+2.Total Profit:$191.12K
+3.Total Quantity Sold:274K units
+4.Average Discount:21%
+5.Top Region: South ($308.60K)
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 - **Power BI Desktop** — Report design, data modeling, and visualization
 - **DAX (Data Analysis Expressions)** — Custom measures for KPIs, gross margin, and aggregations
@@ -58,7 +58,7 @@ Analysis of discount strategies and their impact on profit, including discount b
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **South region dominates** with $308.60K in sales, followed by Midwest
 - **Household category** leads with 55.22% of total sales ($496.05K)
@@ -68,7 +68,7 @@ Analysis of discount strategies and their impact on profit, including discount b
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -79,7 +79,7 @@ Analysis of discount strategies and their impact on profit, including discount b
 
 ---
 
-## 🚀 How to View
+## How to View
 
 1. **View the screenshots** above for a quick preview of the dashboard.
 2. **To explore interactively:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
@@ -87,15 +87,13 @@ Analysis of discount strategies and their impact on profit, including discount b
 
 ---
 
-## 👤 About Me
+## About Me
 
 **Md Abdullah Al Amin**
 
 Aspiring data analyst passionate about turning data into actionable insights using Power BI, Excel, and SQL.
 
-🔗 **LinkedIn:** [linkedin.com/in/mdabdullah-al-amin](https://www.linkedin.com/in/mdabdullah-al-amin)
-💼 **GitHub:** [github.com/mdabdullah-amin](https://github.com/mdabdullah-amin)
-
+**LinkedIn:** [linkedin.com/in/mdabdullah-al-amin](https://www.linkedin.com/in/mdabdullah-al-amin)
 ---
 
 ⭐ *If you found this project helpful or interesting, please consider giving it a star!*
